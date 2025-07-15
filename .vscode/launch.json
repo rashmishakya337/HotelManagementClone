@@ -1,12 +1,13 @@
 {
   "version": "0.2.0",
   "configurations": [
+
     {
       "type": "java",
       "name": "Launch Hotel App",
       "request": "launch",
-      "mainClass": "Main",
-      "vmArgs": "--module-path \"C:/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml"
+      "mainClass": "HotelApp",
+      "vmArgs": "--module-path \"C:\\Program Files\\Java\\javafx-sdk-24.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
     }
   ]
 }
